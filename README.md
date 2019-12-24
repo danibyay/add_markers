@@ -6,6 +6,7 @@ Based on [this tutorial](http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Basic%2
 # usage
 
 `roslaunch add_markers add_markers.launch`
+
 `rosrun rviz rviz`
 
 1. Type `map` in the fixed_frame field in RViz.
